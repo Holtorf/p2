@@ -1,0 +1,18 @@
+Eins	-	Ena
+Zwei	-	Fünf
+Drei	-	Tria
+Vier	-	Tessera
+Fünf	-	Pente
+Sechs	-	Exi
+Ja	-	Ne
+Nein	-	Ochi
+Danke	-	Efcharisto
+Bitte	-	Parakalo
+Guten Morgen	-	Kalimera
+Guten Abend	-	Kalispera
+Guten Nacht	-	Kalinchta
+Hallo	-	Ja sou
+Weiß	-	Aspro
+Rot	-	Kokino
+Sehr gut	-	Poli oreo
+Auf Wiedersehen	-	Adio
